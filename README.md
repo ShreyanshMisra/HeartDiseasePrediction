@@ -9,13 +9,7 @@ An effective model accurately predicts whether a patient, given their described 
 ## Results
 We used a correlation matrix to identify chest pain, ST depression, number of major blood vessels, and thalassemia as symptoms with the highest correlation to heart disease. 
 
-<img width="506" alt="image" src="https://github.com/ShreyanshMisra/HeartDiseasePrediction/assets/80748482/b3e0c535-9967-4f82-983e-b0d5835f9213">
-
-
 The Logistic Regression model was most effective at predicting heart disease with an accuracy of 88%. Similarly to what we identified through the correlation matrix, the most important features in the logistic regression model were the number of major blood vessels, chest pain, and thalassemia.
-
-<img width="638" alt="image" src="https://github.com/ShreyanshMisra/HeartDiseasePrediction/assets/80748482/730f292b-0fca-41d0-a8ea-527fe9eb3b72">
-
 
 ## Files
 - `data.csv`
